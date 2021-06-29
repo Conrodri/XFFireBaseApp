@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.xffirebaseapp.xffirebaseapp">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
+	<application android:label="XFFireBaseApp.Android" android:theme="@style/MainTheme"></application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<com.google.android.gms.common.SignInButton
+			android:id="@+id/sign_in_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" />
+	
+</manifest>

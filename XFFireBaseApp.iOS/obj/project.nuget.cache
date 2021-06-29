@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImN7FTvRmUffxewMvh7JZXWg9QCOWJchnFntSCx6NV/qe1ypxu52p99oFOWk5jra4bvLT3DaxJikaZENRK9Ktg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Constant\\RiderProjects\\XFFirabaseApp\\XFFireBaseApp.iOS\\XFFireBaseApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Constant\\.nuget\\packages\\firebaseauthentication.net\\3.4.0\\firebaseauthentication.net.3.4.0.nupkg.sha512",
+    "C:\\Users\\Constant\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Constant\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Constant\\.nuget\\packages\\xamarin.forms\\4.7.0.1239\\xamarin.forms.4.7.0.1239.nupkg.sha512"
+  ],
+  "logs": []
+}

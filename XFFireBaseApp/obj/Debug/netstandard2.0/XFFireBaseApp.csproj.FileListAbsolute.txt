@@ -1,0 +1,15 @@
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\bin\Debug\netstandard2.0\XFFireBaseApp.deps.json
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\bin\Debug\netstandard2.0\XFFireBaseApp.dll
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\bin\Debug\netstandard2.0\ref\XFFireBaseApp.dll
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\bin\Debug\netstandard2.0\XFFireBaseApp.pdb
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.csproj.AssemblyReference.cache
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\MyDashboardPage.xaml.g.cs
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.AssemblyInfoInputs.cache
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.AssemblyInfo.cs
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.dll
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\ref\XFFireBaseApp.dll
+C:\Users\Constant\RiderProjects\XFFirabaseApp\XFFireBaseApp\obj\Debug\netstandard2.0\XFFireBaseApp.pdb
